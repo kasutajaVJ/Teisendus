@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Teisendus</string>
+    <string name="ent">Sisestage number</string>
+    <string name="km">Teisenda km</string>
+    <string name="ml">Teisenda miilideks</string>
+    <string name="clr">Kustuta</string>
+    <string name="ok">Teisenda</string>
+</resources>

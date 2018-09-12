@@ -51,13 +51,17 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/btn_clear"
-            android:text="@string/clr"/>
+            android:text="@string/clr"
+            android:onClick="onClick"
+            style="?android:attr/buttonBarButtonStyle"/>
 
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/ok"
-            android:text="@string/ok"/>
+            android:id="@+id/btn_ok"
+            android:text="@string/ok"
+            android:onClick="onClick"
+            android:background="@drawable/btn_shape"/>
     </LinearLayout>
 
 </LinearLayout>
